@@ -29,3 +29,11 @@ $ python -m grpc_tools.protoc \
 ```bash
 $ python server.py
 ```
+
+## Run Client
+
+다른 터미널에서 실행한다.
+
+```bash
+$ python client.py
+```
